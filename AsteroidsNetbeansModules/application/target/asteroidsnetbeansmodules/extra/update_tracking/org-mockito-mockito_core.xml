@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.mockito.mockito_core">
+    <module_version install_time="1652126514554" last="true" origin="installer" specification_version="4.4.0">
+        <file crc="906459797" name="config/Modules/org-mockito-mockito_core.xml"/>
+        <file crc="2879454570" name="modules/org-mockito-mockito_core.jar"/>
+    </module_version>
+</module>

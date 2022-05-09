@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="net.bytebuddy.byte_buddy">
+    <module_version install_time="1652126514563" last="true" origin="installer" specification_version="1.12.8">
+        <file crc="368431636" name="config/Modules/net-bytebuddy-byte_buddy.xml"/>
+        <file crc="80988464" name="modules/net-bytebuddy-byte_buddy.jar"/>
+    </module_version>
+</module>
